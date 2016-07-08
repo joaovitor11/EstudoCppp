@@ -33,7 +33,7 @@ Você deve estar se perguntando: ok, mas e agora? Como faço para implementar (p
 class ClasseParte;
 
 class ClasseTodo{
-  ClasseParte parte; //essa é a forma de demonstrar uma agregação entre duas classes em C++
+  ClasseParte *parte; //essa é a forma de demonstrar uma agregação entre duas classes em C++
 };
 
 #endif
