@@ -21,6 +21,7 @@ Outro exemplo que pode ser citado é: caso uma galinha morra, seus ovos também 
 ## Exemplo de Agregação em C++
 
 Observe o diagrama de classes a seguir:
+
 <center> ![Exemplo de Agregação](http://github.com/joaovitor11/EstudoCppp/tree/master/AgregacaoCpp/Imagens/Classe.png)
 <center> Imagem 2 - Outro de Agregação
 
