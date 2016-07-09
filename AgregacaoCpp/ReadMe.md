@@ -10,9 +10,9 @@ Como foi dito anteriormente, uma Agregação é um tipo de relação. Ela é fei
 
 Como podemos ver na imagem abaixo, a classe pedido é o todo da relação e o item é uma parte do pedido, sendo que para haver um pedido é necessário ter pelo menos um ou vários itens, porém os itens pertencem exclusivamente a um pedido.
 
-<center> ![Exemplo de Agregação](Imagens/exemplo_agregação.png) </center>
+![Exemplo de Agregação](Imagens/exemplo_agregação.png)
 
-<small>Imagem 1 - Exemplo de Agregação </small>
+Imagem 1 - Exemplo de Agregação
 
 ## Devo usar Agregação ou Composição?
 
@@ -25,7 +25,7 @@ Observe o diagrama de classes a seguir:
 
 ![Exemplo de Agregação](Imagens/Classe.png)
 
-<center>Imagem 2 - Outro de Agregação
+Imagem 2 - Outro de Agregação
 
 Você deve estar se perguntando: ok, mas e agora? Como faço para implementar (programar) essas classes? Existe algum código no C++ para ilustrar que a ClasseParte se associa com a ClasseTodo? Respondendo a segunda pergunta, não, não existe algum código específico para demonstrar que as classes se associam, sejam por agregação ou composição. A forma que existe para demonstrar agregação entre duas classes no C++ é declarar uma variável do tipo ClasseParte dentro da ClasseTodo desta forma:
 
