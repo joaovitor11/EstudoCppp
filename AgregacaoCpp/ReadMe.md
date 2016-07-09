@@ -12,7 +12,7 @@ Como podemos ver na imagem abaixo, a classe pedido é o todo da relação e o it
 
 <center>![Exemplo de Agregação](Imagens/exemplo_agregação.png)
 
-Imagem 1 - Exemplo de Agregação
+Imagem 1 - Exemplo de Agregação </center>
 
 ## Devo usar Agregação ou Composição?
 
