@@ -23,8 +23,9 @@ Outro exemplo que pode ser citado é: caso uma galinha morra, seus ovos também 
 
 Observe o diagrama de classes a seguir:
 
-<center> ![Exemplo de Agregação](Imagens/Classe.png)
-Imagem 2 - Outro de Agregação
+![Exemplo de Agregação](Imagens/Classe.png)
+
+<center>Imagem 2 - Outro de Agregação
 
 Você deve estar se perguntando: ok, mas e agora? Como faço para implementar (programar) essas classes? Existe algum código no C++ para ilustrar que a ClasseParte se associa com a ClasseTodo? Respondendo a segunda pergunta, não, não existe algum código específico para demonstrar que as classes se associam, sejam por agregação ou composição. A forma que existe para demonstrar agregação entre duas classes no C++ é declarar uma variável do tipo ClasseParte dentro da ClasseTodo desta forma:
 
