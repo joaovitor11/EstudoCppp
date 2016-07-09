@@ -11,6 +11,7 @@ Como foi dito anteriormente, uma Agregação é um tipo de relação. Ela é fei
 Como podemos ver na imagem abaixo, a classe pedido é o todo da relação e o item é uma parte do pedido, sendo que para haver um pedido é necessário ter pelo menos um ou vários itens, porém os itens pertencem exclusivamente a um pedido.
 
 <center>![Exemplo de Agregação](Imagens/exemplo_agregação.png)
+
 <center> Imagem 1 - Exemplo de Agregação
 
 ## Devo usar Agregação ou Composição?
