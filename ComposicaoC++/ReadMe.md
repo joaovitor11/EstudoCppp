@@ -8,7 +8,7 @@ Composição é outra forma de associação que permite unir duas classes, exata
 
 Observe a seguir a relação de composição entre a classe ContaBancária (todo) e HistóricoTransações(parte):
 
-!["composição"](C:\Users\joao vitor\Desktop\Imagens\composicao.png)
+!["composição"](Imagens\composicao.png)
 Imagem 1 - Exemplo de Composição
 
 A imagem anterior do diagrama de classes representa uma relação com a classe ContaBancária e HistóricoTransações, sendo assim, caso a classe ContaBancária seja destruída, a classe HistóricoTransações também deixará de existir.
@@ -18,7 +18,7 @@ Note que a classe ContaBancária está escrita com uma fonte itálica, isso sign
 
  Sempre que possível use composição invés de herança. Para reforçar essa tese, veja o exemplo logo abaixo da Classe Pilha sendo subclasse da Classe Vetor:
 
- !["herança classe vetor e Pilha"](C:\Users\joao vitor\Desktop\Imagens\herança.png)
+ !["herança classe vetor e Pilha"](Imagens\herança.png)
 
  Imagem 2 - Classe Pilha estendendo da classe Vetor
 
@@ -31,7 +31,7 @@ Note que a classe ContaBancária está escrita com uma fonte itálica, isso sign
 
  Agora observe as mesmas classes sendo mostradas com a composição:
 
- !["composição"](C:\Users\joao vitor\Desktop\Imagens\composicao2.png)
+ !["composição"](Imagens\composicao2.png)
 
  Imagem 3 - Classe Pilha e Vetor com a relação de composição
 
@@ -44,7 +44,7 @@ Para isso, necessário instanciar um objeto da classe parte no construtor da cla
 
 Considere o diagrama de Classes abaixo:
 
-!["Composição C++"](C:\Users\joao vitor\Desktop\Imagens\Composicao3.jpg)
+!["Composição C++"](Imagens\Composicao3.jpg)
 
 Imagem 4 - Classe Pessoa faz o papel de classe todo e Coracao faz o papel de parte na composição
 
