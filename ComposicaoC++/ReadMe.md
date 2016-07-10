@@ -8,7 +8,7 @@ Composição é outra forma de associação que permite unir duas classes, exata
 
 Observe a seguir a relação de composição entre a classe ContaBancária (todo) e HistóricoTransações(parte):
 
-!["composição"](Imagens\composicao.png)
+![composição](Imagens\composicao.png)
 Imagem 1 - Exemplo de Composição
 
 A imagem anterior do diagrama de classes representa uma relação com a classe ContaBancária e HistóricoTransações, sendo assim, caso a classe ContaBancária seja destruída, a classe HistóricoTransações também deixará de existir.
