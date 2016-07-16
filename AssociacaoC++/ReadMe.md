@@ -92,3 +92,11 @@ public:
 
 #endif
   ```
+
+## Referências
+
+[STL Containers](https://msdn.microsoft.com/en-us/library/1fe2x6kt.aspx)
+
+[UML-composicao-vs-agregacao/](http://www.cleibsonalmeida.blog.br/site/uml-composicao-vs-agregacao/)
+
+[std::vector](http://en.cppreference.com/w/cpp/container/vector)
