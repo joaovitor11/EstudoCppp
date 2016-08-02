@@ -8,7 +8,7 @@ A herança permite que classes se especializem, obtendo atributos e métodos de 
 
 Considere as duas classes a seguir:
 
-!["Exemplo de Herança"](C:\Users\joao vitor\Desktop\Herança em C++.jpg)
+!["Exemplo de Herança"](Imagens/Herança em C++.jpg)
 
 Imagem 1 - Classe Aluno estendendo de Pessoa
 
@@ -28,7 +28,7 @@ Tipos de acesso:
 
 * private - os métodos e atributos herdados com visibilidade public e protected ficarão protegidos.
 
-!["Exemplo de Herança"](C:\Users\joao vitor\Desktop\Extendendo classe em C++.jpg)
+!["Exemplo de Herança"](Imagens/Extendendo classe em C++.jpg)
 
 Imagem 2 - Forma de herança em C++
 
