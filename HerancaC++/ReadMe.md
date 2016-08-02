@@ -28,7 +28,7 @@ Tipos de acesso:
 
 * private - os métodos e atributos herdados com visibilidade public e protected ficarão protegidos.
 
-!["Exemplo de Herança"](Imagens/Extendendo classe em C++.jpg)
+!["Exemplo de Herança"](Imagens/Estendendo classe em C++.jpg)
 
 Imagem 2 - Forma de herança em C++
 
