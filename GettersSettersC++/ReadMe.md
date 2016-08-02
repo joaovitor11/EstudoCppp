@@ -11,7 +11,7 @@ O encapsulamento tem o objetivo de ocultar informações para que elas fiquem se
 
 Considere a classe a seguir:
 
-![Classe Carro](C:\Users\joao vitor\Desktop\Classe Carro.jpg)
+![Classe Carro](Imagens/Classe Carro.jpg)
 
 Imagem 1 - Classe Carro
 
