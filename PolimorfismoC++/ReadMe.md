@@ -4,7 +4,7 @@ Neste tutorial irei abordar o que é e como deve ser implementado o polimorfismo
 
 ## O que é Polimorfismo?
 
-O significado da palavra "polimorfismo" remete a algo possuir vários comportamentos os várias formas. Em orientação a objetos, subclasses herdam método(s) da superclasse, porém eles possuem comportamentos distintos, mas usam a mesma assinatura (sem alterar o nome da função ou seus parametros, se houverem). Mas para isso é necessário declarar uma subclasse do tipo abastro (para saber se uma classe é abastrata ou não, note se seu nome está em itálico, se estiver, essa classe é abstrata).
+O significado da palavra "polimorfismo" remete a algo possuir vários comportamentos os várias formas. Em orientação a objetos, subclasses herdam método(s) da superclasse, porém eles possuem comportamentos distintos, mas usam a mesma assinatura (sem alterar o nome da função ou seus parâmetros, se houverem). Mas para isso é necessário declarar uma subclasse do tipo abstrato (para saber se uma classe é abstrata ou não, note se seu nome está em itálico, se estiver, essa classe é abstrata).
 
 Veja a imagem a seguir para compreender com mais clareza o que é uma classe abstrata e como modelar um exemplo de polimorfismo entre duas ou mais classes:
 
@@ -17,7 +17,7 @@ No exemplo anterior podemos notar que a classe animal é a classe abstrata, a cl
 
 ## Como implementar polimorfismo em C++?
 
-Você deve estar se perguntando se a programação de uma classe abstrata é exatamente igual as linguagens de programação Java, C# ou PHP? A resposta é não. Veremos sua implemetação nas linguagens citadas:
+Você deve estar se perguntando se a programação de uma classe abstrata é exatamente igual as linguagens de programação Java, C# ou PHP? A resposta é não. Veremos sua implementação nas linguagens citadas:
 
 * Java:
 ```java
@@ -34,9 +34,9 @@ public abstract class Animal
 abstract class Animal
 ```
 
-A forma de implementação nas três linguagens citadas é quase identica, não? Porém no C++ ele não usa esse esteriótipo "abstract", mas sim o "virtual", sem contar que para ser classificada como uma classe virtual, ela deverá ter pelo menos uma função virtual pura.
+A forma de implementação nas três linguagens citadas é quase identica, não? Porém no C++ ele não usa esse estereótipo "abstract", mas sim o "virtual", sem contar que para ser classificada como uma classe virtual, ela deverá ter pelo menos uma função virtual pura.
 
-## O que é  uma função virtual pura?
+## O que é uma função virtual pura?
 
 Uma função virtual pura determina se a classe é ou não abstrata, sem isso não é possível realizar o polimorfismo, como dito anteriormente.
 
@@ -98,7 +98,7 @@ public:
 #endif
 ```
 
-Agora iremos implentar as funções dessa classe Humano:
+Agora iremos implementar as funções dessa classe Humano:
 
 * Humano.cpp:
 
