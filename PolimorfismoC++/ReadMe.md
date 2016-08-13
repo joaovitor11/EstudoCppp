@@ -8,7 +8,7 @@ O significado da palavra "polimorfismo" remete a algo possuir vários comportame
 
 Veja a imagem a seguir para compreender com mais clareza o que é uma classe abstrata e como modelar um exemplo de polimorfismo entre duas ou mais classes:
 
-<center>![Exemplo Polimorfismo](C:\Users\joao vitor\Desktop\Exemplo_Polimorfismo.jpg) </center>
+<center>![Exemplo Polimorfismo](Imagens/Exemplo_Polimorfismo.jpg) </center>
 
 <center>Imagem 1 - Exemplo de Polimorfismo </center>
 
